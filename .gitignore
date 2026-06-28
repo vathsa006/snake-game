@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+
+# Node.js
+node_modules/
+npm-debug.log*
+
+# Databases / Game state
+*.db
+resume_history.db
+highscore.txt
+
+# Environment secrets
+.env
+.env.local
+
+# IDEs and System
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
