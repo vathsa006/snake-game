@@ -21,6 +21,10 @@ highscore.txt
 .env
 .env.local
 
+# Exclude other project folders from the Snake Game repo
+gitagyaan/
+resume_analyzer/
+
 # IDEs and System
 .vscode/
 .idea/
